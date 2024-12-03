@@ -1,6 +1,6 @@
 # Beginner's Guide to PC Components
 
-**Author:** [Your Name]  
+**Author:** Ryan Hulett  
 
 ## Summary  
 This tutorial explains the key parts of a personal computer. You will learn what each component does, how they work together, and how to choose the right ones for your needs. By the end, you'll feel confident understanding the basics of PC hardware.
